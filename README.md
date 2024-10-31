@@ -1,4 +1,5 @@
 # E-Commerce Flower Shop
+## This HTML & CSS file outlines the structure for a responsive flower shop website. It includes the following sections:
 * ***Header:***  Contains a logo, navigation links ```(Home, About, Products, Review, Contact)```, and icons for user actions ```(favorites, cart, user profile)```.
 * ***Home Section:*** Highlights fresh, natural flowers with a call-to-action button for shopping.
 * ***About Section:*** A brief description of the business with a video and a text explaining why customers should choose this flower shop.
